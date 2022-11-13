@@ -4,16 +4,32 @@ body{
 }
 
 div{
-    background-color: black;
+    background-color: #495059;
     width: 60%;
-    margin: 400px auto;
+    margin: 350px auto;
     text-align: center;
     color: white;
     border-radius: 20px;
+    font-family: 'Quicksand', sans-serif;
+    opacity: 0.9;
+}
+
+i{
+    font-size: 60px;
+    margin-top: 15px;
 }
 
 button{
     background-color: limegreen;
     padding: 10px;
     color: white;
+    font-size: 25px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 35px;
 }
